@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194793912227",
+    "project_id": "medicine-app-a5f93",
+    "storage_bucket": "medicine-app-a5f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194793912227:android:e1c8a47a00e4edc7cd8c16",
+        "android_client_info": {
+          "package_name": "com.example.medapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-DB_cJSy5vPJKS66gATF9R8rVSZG0XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
